@@ -1,4 +1,4 @@
-# CDL programming exercise
+# UCBL coding exercise
 
 This small Spring Boot application is basically an starting point of the attempt to retrieve a GitHub user's recent event activities via <a href="https://developer.github.com/v3/activity/events">GitHub Events API</a>.
 
